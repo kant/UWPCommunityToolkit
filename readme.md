@@ -23,7 +23,7 @@ Want to see the toolkit in action before jumping into the code?  Download and pl
 
 ## Nuget Packages
 
-NuGet is a standard package manager for .NET applications that is built into Visual Studio. From your open solution choose the *Tools* menu, *NuGet Package Manager*, *Manage NuGet packages for solution...* to open the UI.  Enter one of the package names below to search for it online.
+NuGet is a standard package manager for .NET applications that is built into Visual Studio. From your open solution choose the `Tools` menu, `NuGet Package Manager`, `Manage NuGet packages for solution...` to open the UI.  Enter one of the package names below to search for it online.
 
 Once you search you should see a list similar to the one below (versions may be different, but names should be the same).
 
@@ -51,7 +51,6 @@ Once you search you should see a list similar to the one below (versions may be 
 ## Features
 
 ### Animations
-
 * [Blur](http://docs.uwpcommunitytoolkit.com/en/master/animations/Blur/)
 * [Composition Animations](http://docs.uwpcommunitytoolkit.com/en/master/animations/CompositionAnimations/)
 * [Connected Animations](http://docs.uwpcommunitytoolkit.com/en/master/animations/ConnectedAnimations/)
@@ -68,7 +67,6 @@ Once you search you should see a list similar to the one below (versions may be 
 * [Scale](http://docs.uwpcommunitytoolkit.com/en/master/animations/Scale/)
 
 ### Controls
-
 * [AdaptiveGridView](http://docs.uwpcommunitytoolkit.com/en/master/controls/AdaptiveGridView/)
 * [BladeView](http://docs.uwpcommunitytoolkit.com/en/master/controls/BladeView/)
 * [Carousel](http://docs.uwpcommunitytoolkit.com/en/master/controls/Carousel/)
@@ -137,7 +135,6 @@ Once you search you should see a list similar to the one below (versions may be 
 * [WeakEventListener](http://docs.uwpcommunitytoolkit.com/en/master/helpers/WeakEventListener/)
 
 ### Services
-
 * [Bing](http://docs.uwpcommunitytoolkit.com/en/master/services/Bing/)
 * [Facebook](http://docs.uwpcommunitytoolkit.com/en/master/services/Facebook/)
 * [LinkedIn](http://docs.uwpcommunitytoolkit.com/en/master/services/Linkedin/)
@@ -154,7 +151,7 @@ Once you search you should see a list similar to the one below (versions may be 
 
 Please use [GitHub issues](https://github.com/Microsoft/UWPCommunityToolkit/issues) for bug reports and feature requests.
 For feature requests, please also create en entry in our [Uservoice](https://wpdev.uservoice.com/forums/110705-universal-windows-platform/category/193402-uwp-community-toolkit).
-For general questions and support, please use [Stack Overflow](https://stackoverflow.com/search?q=uwp+community+toolkit) where questions should be tagged with the tag `uwp-community-toolkit`
+For general questions and support, please use [Stack Overflow](https://stackoverflow.com/search?q=uwp+community+toolkit) where questions should be tagged with the tag `uwp-community-toolkit`.
 
 ## Contributing
 Do you want to contribute? Here are our [contribution guidelines](https://github.com/Microsoft/UWPCommunityToolkit/blob/master/contributing.md).
